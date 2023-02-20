@@ -1,7 +1,7 @@
 import os
 import sys
 
-from win32comext.shell import shell
+#from win32comext.shell import shell
 from DB_setting import getCustomSetting
 
 
